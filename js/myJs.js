@@ -6,15 +6,15 @@ var btn = document.getElementById("fortuneBtn");
 var ftnMessage = document.getElementById("fortuneMessage");
 /* the fortune array */
 var fortuneArray = [];
-fortuneArray[0] = 'Fortune 1';
-fortuneArray[1] = 'Fortune 2';
-fortuneArray[2] = 'Fortune 3';
-fortuneArray[3] = 'Fortune 4';
-fortuneArray[4] = 'Fortune 5';
-fortuneArray[5] = 'Fortune 6';
-fortuneArray[6] = 'Fortune 7';
-fortuneArray[7] = 'Fortune 8';
-fortuneArray[8] = 'Fortune 9';
+fortuneArray[0] = 'There will be no train delays.';
+fortuneArray[1] = 'Meh.';
+fortuneArray[2] = 'Time is an illusion, but your illusion is running out.';
+fortuneArray[3] = 'Maybe its time start going to church.';
+fortuneArray[4] = 'Maybe that one girl/guy will give you their number.';
+fortuneArray[5] = 'Being held prisoner in design firm, send help.';
+fortuneArray[6] = 'There will be pineapples on your pizza';
+fortuneArray[7] = 'The Elder Gods glance in your direction.';
+fortuneArray[8] = 'You can do the thing.';
 
 /* function for the button*/
 function btnClick() {
