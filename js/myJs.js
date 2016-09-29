@@ -29,7 +29,7 @@ function btnClick() {
         /* clears the fortune message */
         btn.className = "newCookie";
         ftnMessage.innerHTML = "";
-        btn.innerHTML = ("Open the Fortune Cookie!");
+        btn.innerHTML = '<img src=\'images/fortune-cookie.png\'>';
     }
 
 }
