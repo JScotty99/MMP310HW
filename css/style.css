@@ -1,22 +1,31 @@
 body {
   text-align: center;
+background-color: #BD8D46;
+background-image: url("https://www.transparenttextures.com/patterns/rice-paper-2.png");
 }
 
 h1 {
 font-family: 'Ceviche One', cursive;
+color: #B9121B;
+font-size: 3em;
 }
 
 p {
     font-family: 'Alegreya', serif;
+    font-size: 1em;
 }
 
 button {
-    background-color:;
+    background-color: #FCFAE1;
     border: none;
-    color: white;
+    color: black;
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
 }
+
+a:link {
+      color:#4C1B1B;
+    }
